@@ -1,4 +1,4 @@
-# Hi, I'm Vagner Bellacosa, a renegade IBM Mainframe Jedi knight, I fought in the Y2k battle! :D
+# Hi, I'm Vagner Bellacosa, a renegade IBM Mainframe Jedi knight, I fought in the Y2K War, participated in the final battles of the EURO conversion and fought the good fight in SEPA :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VagnerBellacosa)](https://github.com/VagnerBellacosa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerbellacosa/)](https://www.linkedin.com/in/vagnerbellacosa/)
