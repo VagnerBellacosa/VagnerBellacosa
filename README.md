@@ -12,3 +12,21 @@ Great powers great responsibilities. I am a Noob
 - [Courses](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS) 👨🏼‍🏫 - Academy for renegade Jedis and computer apprentices, come be a padawan
 - [Blog](https://andarilhovisitaportugal.blogspot.com/) ✍🏼 - I'm write about many things.
 - [Website](https://eljefemidnightlunch.blogspot.com/) 💻 - Working on it.
+
+## Jedi Powers
+Mainframe Systems Analyst, Procedural Logic, JAD, Agile, Scrum... 
+
+## Weapons 
+PLI, COBOL, Software AG Natural, Clipper, Visual Basic, C#, Javascript, JAVA, CICS, Basic...
+
+## Weapons First Order
+VSAM, Adabas, DB2, MS SQL, MySQL...
+
+## Galactic Ships
+OS 360, MS DOS, Windows, TSO, QMF, Spufi, JCL, AIX, Shell Script, Roscoe, AS 400 ...
+
+## Planet Ships
+Html , CSS, PHP... 
+
+## Renegade ongoing trainings
+Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
