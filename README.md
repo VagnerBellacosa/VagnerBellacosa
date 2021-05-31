@@ -18,7 +18,7 @@ Mainframe Systems Analyst, Procedural Logic, JAD, Agile, Scrum...
 
 ## Weapons 
 PLI, COBOL, Software AG Natural, Clipper, Visual Basic, C#, Javascript, JAVA, CICS, Basic, MS VBA ...
-### Armory 
+#### Armory 
 CA Endevor, Changeman ZMF, GitHub
 
 ## Weapons First Order
