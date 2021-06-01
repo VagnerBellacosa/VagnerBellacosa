@@ -27,7 +27,10 @@ VSAM, Adabas, DB2, MS SQL, MySQL...
 ## Galactic Ships
 OS 360, MS DOS, Windows, TSO, QMF, Spufi, JCL, AIX, Shell Script, Roscoe, AS 400 ...
 
-## Planet Ships
+#### Solar Ships
+Eclipse, Genexus, Visual Studio, VS Code
+
+### Planet Ships
 Html , CSS, PHP... 
 
 ## Renegade ongoing trainings
