@@ -38,15 +38,15 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVagnerBellacosa&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### Conheça minhas estatisticas 
+##### Heart of Gold spaceship
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VagnerBellacosa&show_icons=true)
  
-#### Armory weapons stat
+##### Armory weapons stat
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerBellacosa&theme=blue-green)
   
-#### Spy on
+##### Slartibartfast Spy and design
 ![Profile View Counter](https://komarev.com/ghpvc/?username=VagnerBellacosa)
 
-#### Vogons on my repository View Counter 
+##### Vogons on my repository View Counter 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps)
  
