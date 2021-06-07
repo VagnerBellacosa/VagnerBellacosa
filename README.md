@@ -50,5 +50,17 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 
 ##### Vogons on my repository View Counter 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/VagnerBellacosa/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)  
+
  
-<a href="mailto:vagnerbellacosa@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+
+
+<a href="mailto:vagnerbellacosa@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/VagnerBellacosa/ama)     [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)    
+
+[![Stargazers over time](https://starchart.cc/VagnerBellacosa/badges.svg)](https://starchart.cc/VagnerBellacosa/badges)
+
+    
+
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=VagnerBellacosa&row=1)](https://github.com/ryo-ma/github-profile-trophy)
