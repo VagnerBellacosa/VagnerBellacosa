@@ -5,6 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BellacosaVagner)](https://twitter.com/BellacosaVagner)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/vagnerbellacosa)](https://www.youtube.com/user/vagnerbellacosa)
 
+
 ### About me
 I dinosaur in programming, I started my trail by force in the 80's of the last century. I programmed in 8 bits, mainframe, 16 bits, aix and now I'm an apprentice in 64.
 Great powers great responsibilities. I am a Noob
@@ -50,3 +51,4 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 ##### Vogons on my repository View Counter 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps)
  
+<a href="mailto:vagnerbellacosa@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
