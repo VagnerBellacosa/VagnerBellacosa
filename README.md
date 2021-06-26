@@ -51,19 +51,21 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 ##### Vogons on my repository View Counter 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/VagnerBellacosa/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)  
+| | | | | |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)  |    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   |  [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
+| | | | | |
 
-| | | | | 
-| --- | --- | --- | --- |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="mailto:vagnerbellacosa@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> |   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/VagnerBellacosa/ama)   |    [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)    | 
-| | | | | 
+| | | **Lighthouse At The End Of The World | | |
+| --- | --- | --- | --- | --- |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="mailto:vagnerbellacosa@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> |   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/VagnerBellacosa/ama)   |    [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)    | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| | | | | |
 
 | | **My Jedi Condemnations in Missions** | | 
 | ---| --- | --- |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=VagnerBellacosa&row=1)](https://github.com/ryo-ma/github-profile-trophy) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | |
 
-| | My Sidereal Activities    | |
+| | **My Sidereal Activities**    | |
  | --- | --- | --- |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerBellacosa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | |
