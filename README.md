@@ -57,9 +57,12 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 
 [![Stargazers over time](https://starchart.cc/VagnerBellacosa/badges.svg)](https://starchart.cc/VagnerBellacosa/badges)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=VagnerBellacosa&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+| | **My Jedi Condemnations in Missions** | | 
+| ---| --- | --- |
+| | [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=VagnerBellacosa&row=1)](https://github.com/ryo-ma/github-profile-trophy) | |
+| | | |
 
- | Minhas atividades    |
- | --- |
-| [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerBellacosa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) |
-| |
+| | My Sidereal Activities    | |
+ | --- | --- | --- |
+| | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerBellacosa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) | |
+| | | |
