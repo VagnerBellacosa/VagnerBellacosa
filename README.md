@@ -83,9 +83,9 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerBellacosa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | |
 
-| | **My Waktime**    | |
+| | **My Wakatime**    | |
 | :---: | :---: | :---: |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VagnerBellacosa&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@1e79a819-2e9c-42f8-bec7-0907c53ccc9f&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
 | | | |
 
  </center>
