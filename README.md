@@ -51,11 +51,13 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerBellacosa&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
   
-| | ##### Slartibartfast Spy and design | |
+##### Slartibartfast Spy and design
+| |  | |
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Profile View Counter](https://komarev.com/ghpvc/?username=VagnerBellacosa) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| | ##### Vogons on my repository View Counter | |
+##### Vogons on my repository View Counter
+| |  | |
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
@@ -78,6 +80,9 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 | :---: | :---: | :---: |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerBellacosa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | |
+
+> Work in progress
+> Work in constant evolution, visit us often!
 
 | | **Badges** | |
 | :---: | :---: | :---: |
