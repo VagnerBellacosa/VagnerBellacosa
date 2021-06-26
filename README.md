@@ -37,21 +37,29 @@ Html , CSS, PHP...
 ## Renegade ongoing trainings
 Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVagnerBellacosa&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+| | | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVagnerBellacosa&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
 
-##### Heart of Gold spaceship
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VagnerBellacosa&show_icons=true)
+ ##### Heart of Gold spaceship
+| | | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VagnerBellacosa&show_icons=true) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
  
 ##### Armory weapons stat
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerBellacosa&theme=blue-green)
+| | | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerBellacosa&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
   
-##### Slartibartfast Spy and design
-![Profile View Counter](https://komarev.com/ghpvc/?username=VagnerBellacosa)
+| | ##### Slartibartfast Spy and design | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Profile View Counter](https://komarev.com/ghpvc/?username=VagnerBellacosa) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-##### Vogons on my repository View Counter 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps)
+| | ##### Vogons on my repository View Counter | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VagnerBellacosa/DIO_Bootcamps) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| | | | | |
+| | | **Galactic Sonar** | | |
 | :---: | :---: | :---: | :---: |  :---: |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)  |    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   |  [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
 | | | | | |
