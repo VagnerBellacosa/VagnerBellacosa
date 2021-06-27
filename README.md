@@ -65,7 +65,7 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 
 | | | **Galactic Sonar** | | |
 | :---: | :---: | :---: | :---: |  :---: |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)  |    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   |  [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)  |    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   |  [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)   | [Spies](https://profile-counter.glitch.me/VagnerBellacosa/count.svg) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
 | | | | | |
 
 | | | **Lighthouse At The End Of The World**  | | |
