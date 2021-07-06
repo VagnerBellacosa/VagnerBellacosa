@@ -89,9 +89,12 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@1e79a819-2e9c-42f8-bec7-0907c53ccc9f&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
 | | | |
 
- </center>
-> Work in progress
-> Work in constant evolution, visit us often!
+</center>
+
+Work in progress
+Work in constant evolution, visit us often!
+
+![Gits Snake Revenge Animation](https://github.com/VagnerBellacosa/VagnerBellacosa/blob/main/github-contribution-grid-snake.svg)
 
 | | **Badges** | |
 | :---: | :---: | :---: |
