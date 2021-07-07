@@ -100,5 +100,5 @@ Work in constant evolution, visit us often!
 
 | | **Badges** | |
 | :---: | :---: | :---: |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Stargazers over time](https://github.com/VagnerBellacosa/VagnerBellacosa/blob/main/badges.svg)](https://starchart.cc/VagnerBellacosa/badges) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Stargazers over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=VagnerBellacosa/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=VagnerBellacosa/badges)               | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | |
