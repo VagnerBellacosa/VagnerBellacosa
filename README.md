@@ -19,39 +19,41 @@ Great powers great responsibilities. I am a Noob
 Mainframe Systems Analyst, Procedural Logic, JAD, Agile, Scrum... 
 
 ### Weapons 
-PLI, COBOL, Software AG Natural, Clipper, Visual Basic, C#, Javascript, JAVA, CICS, Basic, MS VBA ...
+PLI, COBOL, Software AG Natural, Clipper, Visual Basic, C#, ![image-20211113234134511](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113234134511.png) Javascript, ![image-20211113233356591](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113233356591.png) JAVA, ![image-20211113233115631](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113233115631.png)  CICS,  ![image-20211113233023632](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113233023632.png)  Basic, ![image-20211113232830692](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113232830692.png) MS VBA ...
 
 #### Armory 
-CA Endevor, Changeman ZMF, GitHub
+![image-20211113231149787](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113231149787.png) CA Endevor, ![image-20211113232524080](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113232524080.png) Changeman ZMF,  ![image-20211113232623950](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113232623950.png) GitHub
 
 ## Weapons First Order
-VSAM, Adabas, DB2, MS SQL, MySQL...
+![image-20211113214232035](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214232035.png) VSAM,  ![image-20211113214332719](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214332719.png) Adabas,  ![image-20211113214052481](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214052481.png) DB2,   ![image-20211113214416142](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214416142.png) MS SQL,  ![image-20211113214913945](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214913945.png) MySQL...
 
 ## Galactic Cruiser 
-OS 360, Z/OS, MS DOS, Windows,  AIX, AS 400 , Linux ...
+![image-20211113213803553](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113213803553.png) OS 360,   ![image-20211113214031070](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214031070.png)  Z/OS,   ![image-20211113213905917](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113213905917.png) MS DOS,  ![image-20211113213944803](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113213944803.png) Windows,  ![image-20211113214500757](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214500757.png)  AIX,  
+
+![image-20211113214545596](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214545596.png)  AS 400 ,  ![image-20211113214625413](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214625413.png) Linux ...
 
 ### Galactic Aircraft carrier
 
-TSO,   Roscoe,  AWS ...
+![image-20211113155125389](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113155125389.png)  TSO,   ![image-20211113155307263](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113155307263.png) Roscoe,  ![image-20211113155435967](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113155435967.png)  AWS ...
 
 ### Galactic Frigate 
 
- ![image-20211113144242679](Image\image-20211113144242679.png)   JCL,   ![image-20211113144022227](Image\image-20211113144022227.png)  Shell Script,   ![image-20211113143935860](Image\image-20211113143935860.png) AutoExec Batch,   ![image-20211113143853480](Image\image-20211113143853480.png) QMF, Spufi ...
+ ![image-20211113144242679](Image/image-20211113144242679.png)   JCL,   ![image-20211113144022227](Image/image-20211113144022227.png)  Shell Script,   ![image-20211113214149095](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214149095.png) AutoExec Batch,   ![image-20211113143853480](Image/image-20211113143853480.png) QMF,  ![image-20211113214750426](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20211113214750426.png) Spufi ...
 
 ### Galactic Corvette 
 
-![image-20210829133813499](Image\image-20210829133813499.png)  MS Office,    ![image-20210829133902203](Image\image-20210829133902203.png)MS Project,  ![image-20210829134038650](Image\image-20210829134038650.png) MS Visio,   ![image-20211113140853005](Image\image-20211113140853005.png)Animaker,   ![image-20211113140932862](Image\image-20211113140932862.png)Canva,  ![image-20211113141024698](Image\image-20211113141024698.png) Figma ...
+![image-20210829133813499](Image/image-20210829133813499.png)  MS Office,    ![image-20210829133902203](Image/image-20210829133902203.png)MS Project,  ![image-20210829134038650](Image/image-20210829134038650.png) MS Visio,   ![image-20211113140853005](Image/image-20211113140853005.png)Animaker,   ![image-20211113140932862](Image/image-20211113140932862.png)Canva,  ![image-20211113141024698](Image/image-20211113141024698.png) Figma ...
 
 #### Solar Ships
- ![image-20211113130037432](Image\image-20211113130037432.png)  Eclipse,  ![image-20211113130152964](Image\image-20211113130152964.png)  Genexus,   ![image-20211113130420469](Image\image-20211113130420469.png)  Visual Studio,   ![image-20211113130529335](Image\image-20211113130529335.png) VS Code
+ ![image-20211113130037432](Image/image-20211113130037432.png)  Eclipse,  ![image-20211113130152964](Image/image-20211113130152964.png)  Genexus,   ![image-20211113130420469](Image/image-20211113130420469.png)  Visual Studio,   ![image-20211113130529335](Image/image-20211113130529335.png) VS Code
 
 ##### Planet Ships
-![image-20211113125410000](Image\image-20211113125410000.png) Html ,  ![image-20211113125511569](Image\image-20211113125511569.png)CSS, ![image-20211113125615665](Image\image-20211113125615665.png) PHP 
+![image-20211113125410000](Image/image-20211113125410000.png) Html ,  ![image-20211113125511569](Image/image-20211113125511569.png)CSS, ![image-20211113125615665](Image/image-20211113125615665.png) PHP 
 
 ## Renegade ongoing trainings
-![image-20211113122258724](Image\image-20211113122258724.png)   Python,  ![image-20211113122453042](Image\image-20211113122453042.png)  Azure,  ![image-20211113122919140](Image\image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](Image\image-20211113123417583.png)  Ajax,   ![image-20211113123929149](Image\image-20211113123929149.png) Oracle,  ![image-20211113124259350](Image\image-20211113124259350.png)  C++,
+![image-20211113122258724](Image/image-20211113122258724.png)   Python,  ![image-20211113122453042](Image/image-20211113122453042.png)  Azure,  ![image-20211113122919140](Image/image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](Image/image-20211113123417583.png)  Ajax,   ![image-20211113123929149](Image/image-20211113123929149.png) Oracle,  ![image-20211113124259350](Image/image-20211113124259350.png)  C++,
 
-![image-20211113124636314](Image\image-20211113124636314.png) .Net,   ![image-20211113124850966](Image\image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image\image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image\image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image\image-20211113125235400.png) Angular  
+![image-20211113124636314](Image/image-20211113124636314.png) .Net,   ![image-20211113124850966](Image/image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image/image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image/image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image/image-20211113125235400.png) Angular  
 
 and more...
 
