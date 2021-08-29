@@ -26,20 +26,36 @@ CA Endevor, Changeman ZMF, GitHub
 ## Weapons First Order
 VSAM, Adabas, DB2, MS SQL, MySQL...
 
-## Galactic Ships
-OS 360, MS DOS, Windows, TSO, QMF, Spufi, JCL, AIX, Shell Script, Roscoe, AS 400 ...
+## Galactic Cruiser 
+OS 360, Z/OS, MS DOS, Windows,  AIX, AS 400 , Linux ...
+
+## Galactic Aircraft carrier
+
+TSO,  Roscoe ...
+
+## Galactic Frigate 
+
+  JCL, Shell Script,  AutoExec Batch, QMF, Spufi ...
+
+## Galactic Corvette 
+
+MS Office, MS Project, MS Visio, Animaker, Canva, Fin
 
 #### Solar Ships
-Eclipse, Genexus, Visual Studio, VS Code
+ ![image-20211113130037432](images\image-20211113130037432.png)  Eclipse,  ![image-20211113130152964](images\image-20211113130152964.png)  Genexus,   ![image-20211113130420469](images\image-20211113130420469.png)  Visual Studio,   ![image-20211113130529335](images\image-20211113130529335.png) VS Code
 
 ### Planet Ships
-Html , CSS, PHP... 
+![image-20211113125410000](images\image-20211113125410000.png) Html ,  ![image-20211113125511569](images\image-20211113125511569.png)CSS, ![image-20211113125615665](images\image-20211113125615665.png) PHP 
 
 ## Renegade ongoing trainings
-Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
+![image-20211113122258724](images\image-20211113122258724.png)   Python,  ![image-20211113122453042](images\image-20211113122453042.png)  Azure,  ![image-20211113122919140](images\image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](images\image-20211113123417583.png)  Ajax,   ![image-20211113123929149](images\image-20211113123929149.png) Oracle,  ![image-20211113124259350](images\image-20211113124259350.png)  C++,
+
+  ![image-20211113124636314](images\image-20211113124636314.png) .Net,   ![image-20211113124850966](images\image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](images\image-20211113125026184.png) Node.Js, ![image-20211113125128447](images\image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](images\image-20211113125235400.png) Angular  
+
+and more...
 
 <center>
- 
+
 | | | |
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVagnerBellacosa&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
@@ -48,12 +64,12 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 | | | |
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VagnerBellacosa&show_icons=true) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
- 
+
 ##### Armory weapons stat
 | | | |
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerBellacosa&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-  
+
 ##### Slartibartfast Spy and design
 | |  | |
 | :---: |  :---: |  :---: |
@@ -66,7 +82,7 @@ Python, Azure, Kotlin, Ajax, Oracle, C++, .Net, Bootstrap and more...
 
 | | | **Galactic Sonar** | | |
 | :---: | :---: | :---: | :---: |  :---: |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)  |    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   |  [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)   | [Spies](https://profile-counter.glitch.me/VagnerBellacosa/count.svg) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/VagnerBellacosa/StrapDown.js/watchers/)  |    ![Profile views](https://gpvc.arturio.dev/VagnerBellacosa)   |  [![GitHub followers](https://img.shields.io/github/followers/VagnerBellacosa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VagnerBellacosa?tab=followers)   | [Spies](https://profile-counter.glitch.me/VagnerBellacosa/count.svg) |
 | | | | | |
 
 | | | **Lighthouse At The End Of The World**  | | |
