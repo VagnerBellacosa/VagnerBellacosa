@@ -31,7 +31,7 @@ OS 360, Z/OS, MS DOS, Windows,  AIX, AS 400 , Linux ...
 
 ## Galactic Aircraft carrier
 
-TSO,  Roscoe ...
+TSO,   Roscoe,  AWS ...
 
 ## Galactic Frigate 
 
@@ -39,18 +39,18 @@ TSO,  Roscoe ...
 
 ## Galactic Corvette 
 
-MS Office, MS Project, MS Visio, Animaker, Canva, Fin
+![image-20210829133813499](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20210829133813499.png)  MS Office,    ![image-20210829133902203](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20210829133902203.png)MS Project,  ![image-20210829134038650](C:\Users\Compaq\AppData\Roaming\Typora\typora-user-images\image-20210829134038650.png) MS Visio, Animaker, Canva, Figma ...
 
 #### Solar Ships
- ![image-20211113130037432](images\image-20211113130037432.png)  Eclipse,  ![image-20211113130152964](images\image-20211113130152964.png)  Genexus,   ![image-20211113130420469](images\image-20211113130420469.png)  Visual Studio,   ![image-20211113130529335](images\image-20211113130529335.png) VS Code
+ ![image-20211113130037432](Image\image-20211113130037432.png)  Eclipse,  ![image-20211113130152964](Image\image-20211113130152964.png)  Genexus,   ![image-20211113130420469](Image\image-20211113130420469.png)  Visual Studio,   ![image-20211113130529335](Image\image-20211113130529335.png) VS Code
 
 ### Planet Ships
-![image-20211113125410000](images\image-20211113125410000.png) Html ,  ![image-20211113125511569](images\image-20211113125511569.png)CSS, ![image-20211113125615665](images\image-20211113125615665.png) PHP 
+![image-20211113125410000](Image\image-20211113125410000.png) Html ,  ![image-20211113125511569](Image\image-20211113125511569.png)CSS, ![image-20211113125615665](Image\image-20211113125615665.png) PHP 
 
 ## Renegade ongoing trainings
-![image-20211113122258724](images\image-20211113122258724.png)   Python,  ![image-20211113122453042](images\image-20211113122453042.png)  Azure,  ![image-20211113122919140](images\image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](images\image-20211113123417583.png)  Ajax,   ![image-20211113123929149](images\image-20211113123929149.png) Oracle,  ![image-20211113124259350](images\image-20211113124259350.png)  C++,
+![image-20211113122258724](Image\image-20211113122258724.png)   Python,  ![image-20211113122453042](Image\image-20211113122453042.png)  Azure,  ![image-20211113122919140](Image\image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](Image\image-20211113123417583.png)  Ajax,   ![image-20211113123929149](Image\image-20211113123929149.png) Oracle,  ![image-20211113124259350](Image\image-20211113124259350.png)  C++,
 
-  ![image-20211113124636314](images\image-20211113124636314.png) .Net,   ![image-20211113124850966](images\image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](images\image-20211113125026184.png) Node.Js, ![image-20211113125128447](images\image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](images\image-20211113125235400.png) Angular  
+  ![image-20211113124636314](Image\image-20211113124636314.png) .Net,   ![image-20211113124850966](Image\image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image\image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image\image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image\image-20211113125235400.png) Angular  
 
 and more...
 
