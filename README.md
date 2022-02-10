@@ -58,7 +58,7 @@ Great powers great responsibilities. I am a Noob
 and more...
 
 
-#📰  📰  📰 NOW  
+📰  📰  📰 NEW 📯  📯  📯
 
 <div>
     <a href="https://twitter.com/BellacosaVagner" target="blank">
