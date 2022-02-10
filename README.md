@@ -57,6 +57,19 @@ Great powers great responsibilities. I am a Noob
 
 and more...
 
+
+#📰  📰  📰 NOW  
+
+<div>
+    <a href="https://twitter.com/BellacosaVagner" target="blank">
+    <img src="https://img.shields.io/twitter/follow/BellacosaVagner?logo=twitter&style=for-the-badge" alt="BellacosaVagner" />
+  </a>
+ 
+</div>
+
+<br>
+<br>
+
 <center>
 
 | | | |
