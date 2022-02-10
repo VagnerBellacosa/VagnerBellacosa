@@ -5,6 +5,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BellacosaVagner)](https://twitter.com/BellacosaVagner)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/vagnerbellacosa)](https://www.youtube.com/user/vagnerbellacosa)
 [![Stack Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16342776/vagner-bellacosa)](https://stackoverflow.com/users/16342776/vagner-bellacosa)
+<a href="https://api.whatsapp.com/send?phone=5519983190111&" alt="WhatsApp">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+<a href="https://www.instagram.com/vagnerbellacosa/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 
 ### About me
