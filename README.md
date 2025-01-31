@@ -112,7 +112,7 @@ and more...
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="mailto:vagnerbellacosa@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> |   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/VagnerBellacosa/ama)   |    [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)    | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | | | |
 
-| | **My Jedi Condemnations in Missions** | | 
+| | **My Jedi Decorations in Missions** | | 
 | :---: | :---: | :---: |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=VagnerBellacosa&row=1)](https://github.com/ryo-ma/github-profile-trophy) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | | | |
