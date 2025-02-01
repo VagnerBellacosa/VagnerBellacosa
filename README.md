@@ -59,7 +59,7 @@ Great powers great responsibilities. I am a Noob
 ## Renegade ongoing trainings
 ![image-20211113122258724](Image/image-20211113122258724.png)   Python,  ![image-20211113122453042](Image/image-20211113122453042.png)  Azure,  ![image-20211113122919140](Image/image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](Image/image-20211113123417583.png)  Ajax,   ![image-20211113123929149](Image/image-20211113123929149.png) Oracle,  ![image-20211113124259350](Image/image-20211113124259350.png)  C++,
 
-![image-20211113124636314](Image/image-20211113124636314.png) .Net,   ![image-20211113124850966](Image/image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image/image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image/image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image/image-20211113125235400.png) Angular  
+![image-20211113124636314](Image/image-20211113124636314.png) .Net,   ![image-20211113124850966](Image/image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image/image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image/image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image/image-20211113125235400.png) Angular   ![image-20211113125235400](Image/image-20211113125235400.png) Jira Software
 
 and more...
 
