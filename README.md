@@ -1,6 +1,9 @@
 # Hi, I'm Vagner Bellacosa, a renegade IBM Mainframe Jedi knight, I fought in the Y2K War, participated in the final battles of the EURO conversion and fought the good fight in SEPA.
-## I was one of those massacred in the TRAG Sem TRAG Multi-Cartridge Project, implementing the software after much pain and struggle.
-### :D 🤪 🤪 🤪 😮‍💨 😵
+
+
+## I was one of the programmer analysts massacred in the TRAG Project Without TRAG Multi-Cartridge, so many things went wrong, teams changed, but in the end the software was implemented after a lot of struggle and pain.D 🤪 🤪 🤪 😮‍💨 😵
+
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VagnerBellacosa)](https://github.com/VagnerBellacosa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerbellacosa/)](https://www.linkedin.com/in/vagnerbellacosa/)
@@ -59,7 +62,7 @@ Great powers great responsibilities. I am a Noob
 ## Renegade ongoing trainings
 ![image-20211113122258724](Image/image-20211113122258724.png)   Python,  ![image-20211113122453042](Image/image-20211113122453042.png)  Azure,  ![image-20211113122919140](Image/image-20211113122919140.png)  Kotlin,    ![image-20211113123417583](Image/image-20211113123417583.png)  Ajax,   ![image-20211113123929149](Image/image-20211113123929149.png) Oracle,  ![image-20211113124259350](Image/image-20211113124259350.png)  C++,
 
-![image-20211113124636314](Image/image-20211113124636314.png) .Net,   ![image-20211113124850966](Image/image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image/image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image/image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image/image-20211113125235400.png) Angular   ![image-20211113125235400](Image/image-20211113125235400.png) Jira Software
+![image-20211113124636314](Image/image-20211113124636314.png) .Net,   ![image-20211113124850966](Image/image-20211113124850966.png) Bootstrap,  ![image-20211113125026184](Image/image-20211113125026184.png) Node.Js, ![image-20211113125128447](Image/image-20211113125128447.png) React.Jsp,    ![image-20211113125235400](Image/image-20211113125235400.png) Angular   ![Jira Software](Image/Jira-Software-logo.png)  Jira Software
 
 and more...
 
@@ -70,7 +73,7 @@ and more...
     <a href="https://twitter.com/BellacosaVagner" target="blank">
     <img src="https://img.shields.io/twitter/follow/BellacosaVagner?logo=twitter&style=for-the-badge" alt="BellacosaVagner" />
   </a>
- 
+
 </div>
 
 <br>
