@@ -1,0 +1,2195 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Bellacosa Mainframe | Divulgação da Stack Mainframe, COBOL, CICS, DB2, JCL e z/OS</title>
+
+<meta name="description" content="Bellacosa Mainframe promove conhecimento sobre COBOL, CICS, DB2, JCL, RACF, JES2, z/OS e toda a Stack Mainframe através de artigos, cursos, curiosidades, newsletters e conteúdo técnico especializado.">
+
+<meta name="keywords" content="Mainframe, COBOL, CICS, DB2, JCL, RACF, zOS, IBM Z, Bellacosa Mainframe, Operador Mainframe, Programador COBOL, TSO, ISPF">
+
+<meta name="author" content="Vagner Bellacosa">
+
+<meta name="robots" content="index,follow,max-image-preview:large">
+
+<link rel="canonical" href="https://eljefemidnightlunch.blogspot.com/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Bellacosa Mainframe">
+<meta property="og:description" content="Ajudando a preservar, ensinar e divulgar a Stack Mainframe para novas gerações de profissionais.">
+<meta property="og:url" content="https://eljefemidnightlunch.blogspot.com/">
+<meta property="og:site_name" content="Bellacosa Mainframe">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bellacosa Mainframe">
+<meta name="twitter:description" content="Conteúdo especializado sobre COBOL, CICS, JCL, DB2, RACF, z/OS e muito mais.">
+
+<!-- Schema.org -->
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"Organization",
+ "name":"Bellacosa Mainframe",
+ "url":"https://www.linkedin.com/company/bellacosa-mainframe",
+ "sameAs":[
+  "https://www.linkedin.com/company/bellacosa-mainframe",
+  "https://www.linkedin.com/showcase/cobol-life/",
+  "https://eljefemidnightlunch.blogspot.com/"
+ ],
+ "description":"Comunidade dedicada à divulgação da Stack Mainframe, COBOL, CICS, JCL, DB2, RACF e tecnologias IBM Z."
+}
+</script>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+background:linear-gradient(135deg,#0f172a,#1e293b);
+color:white;
+overflow-x:hidden;
+}
+
+header{
+text-align:center;
+padding:80px 20px;
+background:rgba(255,255,255,0.03);
+backdrop-filter:blur(10px);
+}
+
+.logo{
+font-size:4rem;
+font-weight:bold;
+color:#00e5ff;
+text-shadow:0 0 20px #00e5ff;
+animation:pulse 2s infinite;
+}
+
+@keyframes pulse{
+50%{transform:scale(1.05);}
+}
+
+.subtitle{
+font-size:1.3rem;
+max-width:900px;
+margin:20px auto;
+line-height:1.8;
+}
+
+.container{
+width:90%;
+max-width:1200px;
+margin:auto;
+padding:40px 0;
+}
+
+.card{
+background:rgba(255,255,255,0.05);
+padding:30px;
+border-radius:20px;
+margin-bottom:30px;
+backdrop-filter:blur(12px);
+transition:0.4s;
+}
+
+.card:hover{
+transform:translateY(-10px);
+box-shadow:0 10px 40px rgba(0,229,255,0.2);
+}
+
+h2{
+color:#00e5ff;
+margin-bottom:15px;
+}
+
+ul{
+padding-left:25px;
+line-height:2;
+}
+
+.social-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:20px;
+}
+
+.link-card{
+background:#111827;
+padding:25px;
+border-radius:15px;
+border:1px solid #334155;
+}
+
+.link-card a{
+color:#00e5ff;
+text-decoration:none;
+font-weight:bold;
+}
+
+iframe{
+width:100%;
+height:350px;
+border:none;
+border-radius:15px;
+margin-top:15px;
+}
+
+.counter{
+font-size:2rem;
+font-weight:bold;
+color:#00ff88;
+text-align:center;
+margin-top:20px;
+}
+
+.cta{
+text-align:center;
+padding:60px 20px;
+}
+
+.btn{
+display:inline-block;
+padding:15px 35px;
+background:#00e5ff;
+color:#000;
+font-weight:bold;
+border-radius:50px;
+text-decoration:none;
+margin:10px;
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.08);
+}
+
+footer{
+text-align:center;
+padding:40px;
+background:#020617;
+margin-top:40px;
+}
+
+.fade{
+opacity:0;
+transform:translateY(50px);
+transition:1s;
+}
+
+.fade.show{
+opacity:1;
+transform:translateY(0);
+}
+
+#github-dashboard{
+
+    padding:100px 20px;
+
+    background:
+    linear-gradient(
+    135deg,
+    #0d1117,
+    #161b22,
+    #0d1117);
+
+}
+
+.github-container{
+
+    max-width:1200px;
+
+    margin:auto;
+
+}
+
+.github-title{
+
+    text-align:center;
+
+    font-size:3rem;
+
+    font-weight:bold;
+
+    color:#58a6ff;
+
+    margin-bottom:20px;
+
+}
+
+.github-subtitle{
+
+    text-align:center;
+
+    max-width:900px;
+
+    margin:auto;
+
+    margin-bottom:50px;
+
+    font-size:1.2rem;
+
+}
+
+.github-card{
+
+    background:#161b22;
+
+    border:1px solid #30363d;
+
+    border-radius:20px;
+
+    padding:40px;
+
+    box-shadow:
+    0 0 30px rgba(88,166,255,.15);
+
+}
+
+.profile{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:40px;
+
+    align-items:center;
+
+}
+
+.profile img{
+
+    width:180px;
+
+    border-radius:50%;
+
+    border:4px solid #58a6ff;
+
+}
+
+.profile-info{
+
+    flex:1;
+
+}
+
+.profile-info h2{
+
+    font-size:2rem;
+
+    color:#58a6ff;
+
+}
+
+.stats{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(180px,1fr));
+
+    gap:20px;
+
+    margin-top:40px;
+
+}
+
+.stat{
+
+    background:#0d1117;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    text-align:center;
+
+    border:1px solid #30363d;
+
+}
+
+.stat-number{
+
+    font-size:2rem;
+
+    color:#58a6ff;
+
+    font-weight:bold;
+
+}
+
+.repo-list{
+
+    margin-top:50px;
+
+}
+
+.repo-list h3{
+
+    margin-bottom:20px;
+
+    color:#58a6ff;
+
+}
+
+.repo{
+
+    background:#0d1117;
+
+    border:1px solid #30363d;
+
+    border-radius:15px;
+
+    padding:20px;
+
+    margin-bottom:15px;
+
+    transition:.3s;
+
+}
+
+.repo:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.repo a{
+
+    color:#58a6ff;
+
+    text-decoration:none;
+
+    font-size:1.2rem;
+
+    font-weight:bold;
+
+}
+
+.visit-btn{
+
+    display:inline-block;
+
+    margin-top:30px;
+
+    padding:15px 30px;
+
+    background:#238636;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:10px;
+
+    font-weight:bold;
+
+}
+
+.loader{
+
+    text-align:center;
+
+    padding:50px;
+
+}
+
+
+#artigos-mainframe{
+
+    padding:50px;
+
+    background:#0f172a;
+
+    color:white;
+
+}
+
+#pesquisa{
+
+    width:100%;
+
+    max-width:600px;
+
+    padding:15px;
+
+    border-radius:10px;
+
+    border:none;
+
+    margin:20px auto;
+
+    display:block;
+
+}
+
+.grid-artigos{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(2,minmax(300px,1fr));
+
+    gap:25px;
+
+}
+
+.artigo-card{
+
+    background:#111827;
+
+    padding:25px;
+
+    border-radius:20px;
+
+    transition:.4s;
+
+    border:1px solid #1e293b;
+
+}
+
+.artigo-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:
+    0 0 30px rgba(0,255,255,.25);
+
+}
+
+.badge{
+
+    display:inline-block;
+
+    background:#00e5ff;
+
+    color:black;
+
+    padding:5px 10px;
+
+    border-radius:20px;
+
+    margin-bottom:15px;
+
+    font-weight:bold;
+
+}
+
+.artigo-card h2{
+
+    color:#00e5ff;
+
+    margin-bottom:15px;
+
+}
+
+.artigo-card a{
+
+    display:inline-block;
+
+    margin-top:15px;
+
+    color:#00ff88;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+}
+
+
+#trailer{
+
+    text-align:center;
+
+    padding:80px 20px;
+
+    background:#020617;
+
+}
+
+.glow{
+
+    font-size:3rem;
+
+    color:#00e5ff;
+
+    text-shadow:
+    0 0 10px #00e5ff,
+    0 0 30px #00e5ff,
+    0 0 60px #00e5ff;
+
+    transition:.5s;
+
+}
+
+#preview-library{
+
+    margin-top:80px;
+
+}
+
+.preview-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:30px;
+
+}
+
+.preview-item{
+
+    background:#111827;
+
+    border:1px solid #334155;
+
+    border-radius:20px;
+
+    padding:20px;
+
+    transition:.3s;
+
+}
+
+.preview-item:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 0 30px rgba(0,229,255,.25);
+
+}
+
+.preview-item h3{
+
+    color:#00e5ff;
+
+    margin-bottom:15px;
+
+}
+
+.preview-item iframe{
+
+    width:100%;
+
+    height:700px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:white;
+
+}
+
+@media(max-width:1000px){
+
+    .preview-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">☕💣 Bellacosa Mainframe</div>
+
+<p class="subtitle">
+
+Preservando, ensinando e divulgando a Stack Mainframe para profissionais,
+estudantes e entusiastas de tecnologia. Um ponto de encontro para quem
+vive COBOL, CICS, JCL, DB2, RACF, JES2, TSO/ISPF, z/OS e o universo IBM Z.
+
+</p>
+
+<div class="counter">
+Visitantes desta página:
+<span id="contador">0</span>
+</div>
+
+</header>
+
+<div class="container">
+
+<section class="card fade">
+
+<h2>🎯 Nossa Missão</h2>
+
+<p>
+
+O Bellacosa Mainframe nasceu com o propósito de compartilhar conhecimento,
+valorizar profissionais da plataforma IBM Mainframe e ajudar novas gerações
+a descobrirem uma das tecnologias mais importantes da história da computação.
+
+</p>
+
+</section>
+
+<section class="card fade">
+
+<h2>🚀 O que você encontrará no Blog El Jefe Midnight Lunch</h2>
+
+<ul>
+<li>História da computação e dos Mainframes IBM</li>
+<li>COBOL moderno e novas funcionalidades</li>
+<li>CICS Web Services e APIs REST</li>
+<li>JCL, SORT, IDCAMS e utilitários do z/OS</li>
+<li>DB2 para desenvolvedores e DBAs</li>
+<li>RACF e Segurança Mainframe</li>
+<li>Operação Mainframe e JES2</li>
+<li>TSO/ISPF para iniciantes</li>
+<li>Laboratórios práticos e tutoriais</li>
+<li>Curiosidades históricas da IBM</li>
+<li>Carreira Mainframe</li>
+<li>Integração Mainframe com Cloud</li>
+<li>z/OS Connect e APIs</li>
+<li>Newsletters semanais</li>
+<li>Quizzes e desafios técnicos</li>
+</ul>
+
+</section>
+
+<section class="social-grid">
+
+<div class="link-card fade">
+
+<h2>🏢 Bellacosa Mainframe</h2>
+
+<p>Comunidade dedicada à divulgação da Stack Mainframe.</p>
+
+<p>
+<a href="https://www.linkedin.com/company/bellacosa-mainframe" target="_blank">
+Acessar LinkedIn
+</a>
+</p>
+
+<iframe src="https://www.linkedin.com/company/bellacosa-mainframe"></iframe>
+
+</div>
+
+<div class="link-card fade">
+
+<h2>💻 COBOL Life</h2>
+
+<p>Conteúdo especializado sobre COBOL e Mainframe.</p>
+
+<p>
+<a href="https://www.linkedin.com/showcase/cobol-life/" target="_blank">
+Visitar Showcase
+</a>
+</p>
+
+<iframe src="https://www.linkedin.com/showcase/cobol-life/"></iframe>
+
+</div>
+
+</section>
+
+<section class="card fade">
+
+<h2>📚 Blog El Jefe Midnight Lunch</h2>
+
+<p>
+
+Artigos técnicos, curiosidades históricas, cursos,
+labs práticos, entrevistas, newsletters e conteúdos
+que ajudam a manter viva a cultura Mainframe.
+
+</p>
+
+<p style="margin-top:20px;">
+
+<a class="btn"
+href="https://eljefemidnightlunch.blogspot.com/"
+target="_blank">
+
+Visitar Blog
+
+</a>
+
+</p>
+
+</section>
+
+<section class="cta fade">
+
+<h2>☕💣 Junte-se à Comunidade Mainframe</h2>
+
+<p style="margin:20px;">
+
+Se você trabalha com Mainframe ou deseja conhecer essa plataforma
+que processa grande parte das transações financeiras do mundo,
+venha fazer parte desta jornada.
+
+</p>
+
+<a class="btn"
+href="https://www.linkedin.com/company/bellacosa-mainframe"
+target="_blank">
+
+Seguir Bellacosa Mainframe
+
+</a>
+
+<a class="btn"
+href="https://eljefemidnightlunch.blogspot.com/"
+target="_blank">
+
+Ler Artigos
+
+</a>
+
+<div class="blog-preview">
+
+    <iframe
+        src="https://eljefemidnightlunch.blogspot.com/"
+        width="100%"
+        height="800"
+        loading="lazy"
+        style="
+            border:none;
+            border-radius:20px;
+            box-shadow:0 0 30px rgba(0,229,255,.3);
+        ">
+    </iframe>
+
+</div>
+
+
+
+</section>
+
+<section id="github-dashboard">
+
+    <div class="github-container">
+
+        <div class="github-title">
+            🚀 GitHub Bellacosa Mainframe
+        </div>
+
+        <div id="github-card">
+
+            <div class="loader">
+
+                Carregando GitHub...
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+</div>
+
+<br><br><br><br>
+
+<section id="artigos-mainframe">
+
+    <h1>☕💣 Biblioteca Bellacosa Mainframe</h1>
+
+    <input
+        type="text"
+        id="pesquisa"
+        placeholder="Pesquisar artigo...">
+
+    <div class="contador">
+        Total de Artigos: <span id="totalArtigos"></span>
+    </div>
+
+    <div class="grid-artigos">
+
+        <!-- CARD -->
+
+        <div class="artigo-card">
+
+            <div class="badge">
+                MAINFRAME
+            </div>
+
+            <h2>50 Comandos TSO Explicados</h2>
+
+            <p>
+                Guia prático com os comandos mais utilizados
+                no ambiente TSO/ISPF.
+            </p>
+
+            <a href="https://eljefemidnightlunch.blogspot.com/2007/01/50-comandos-tso-explicados-para.html"
+               target="_blank">
+
+                Ler Artigo →
+
+            </a>
+
+        </div>
+		
+<div class="artigo-card">
+
+    <div class="badge">BLOG</div>
+
+    <h2>El Jefe Midnight Lunch</h2>
+
+    <p>
+        Portal principal com artigos, cursos, curiosidades,
+        laboratórios e conteúdo sobre Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">TSO</div>
+
+    <h2>50 Comandos TSO Explicados</h2>
+
+    <p>
+        Guia prático com os comandos mais utilizados
+        no ambiente TSO/ISPF.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/50-comandos-tso-explicados-para.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">ABEND</div>
+
+    <h2>ABEND Explicado para Iniciantes</h2>
+
+    <p>
+        Entenda os principais conceitos de ABEND
+        e diagnóstico de falhas no Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/abend-explicado-para-iniciantes.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">JES2</div>
+
+    <h2>A Origem das Mensagens HASP</h2>
+
+    <p>
+        História e curiosidades sobre as famosas
+        mensagens HASP presentes no JES2.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/a-origem-das-mensagens-hasp-no-mainframe.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">DATACENTER</div>
+
+    <h2>Como Funciona um Datacenter Mainframe</h2>
+
+    <p>
+        Conheça a infraestrutura que mantém
+        os grandes sistemas corporativos.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/como-funciona-um-datacenter-mainframe.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">BATCH</div>
+
+    <h2>Como Funciona um Job Batch</h2>
+
+    <p>
+        Entenda o ciclo completo de execução
+        de um processamento batch.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/como-funciona-um-job-batch-no-mainframe.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">SYSOUT</div>
+
+    <h2>Como Interpretar SYSOUT</h2>
+
+    <p>
+        Aprenda a analisar saídas de jobs
+        e identificar problemas rapidamente.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/como-interpretar-sysout-num-job-e-quais.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">ISPF</div>
+
+    <h2>Como Navegar no ISPF</h2>
+
+    <p>
+        Guia introdutório para navegação
+        eficiente no ambiente ISPF.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/como-navegar-no-ispf.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">JCL</div>
+
+    <h2>Como Submeter Jobs no z/OS</h2>
+
+    <p>
+        Passo a passo para envio e
+        acompanhamento de jobs.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/como-submeter-jobs-no-mainframe-zos.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">JCL</div>
+
+    <h2>Introdução ao JCL</h2>
+
+    <p>
+        Primeiros passos no Job Control Language,
+        linguagem fundamental do Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/introducao-ao-jcl.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">SDSF</div>
+
+    <h2>Introdução ao SDSF</h2>
+
+    <p>
+        Conheça o ambiente utilizado para
+        monitoramento e controle de jobs.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/introducao-ao-sdsf.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">MEMÓRIA</div>
+
+    <h2>Acima da Linha e Acima da Barra</h2>
+
+    <p>
+        Entenda os conceitos clássicos de
+        gerenciamento de memória no z/OS.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-acima-da-linha-acima-da-barra-e.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">QSAM</div>
+
+    <h2>O que é Blockagem em Dataset</h2>
+
+    <p>
+        Conceitos de block size, eficiência
+        de I/O e datasets QSAM.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-blockagem-em-dataset-qsam.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">DASD</div>
+
+    <h2>O que é DASD</h2>
+
+    <p>
+        Introdução aos dispositivos de
+        armazenamento utilizados em Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-dasd.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">MAINFRAME</div>
+
+    <h2>Biblioteca Bellacosa Mainframe</h2>
+
+    <p>
+        Explore artigos técnicos, cursos,
+        laboratórios e conhecimento Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/"
+       target="_blank">
+
+        Acessar Portal →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">DATASET</div>
+
+    <h2>O que é Dataset</h2>
+
+    <p>
+        Conceitos fundamentais sobre datasets,
+        a principal estrutura de armazenamento do z/OS.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-dataset.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">ISPF</div>
+
+    <h2>O que é ISPF</h2>
+
+    <p>
+        Conheça a interface mais utilizada
+        pelos profissionais de Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-ispf.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">JES2</div>
+
+    <h2>O que é JES2</h2>
+
+    <p>
+        Entenda o subsistema responsável
+        pelo gerenciamento de jobs e spool.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-jes2.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">JOB</div>
+
+    <h2>O que é Job</h2>
+
+    <p>
+        Introdução ao conceito de jobs
+        e processamento batch no Mainframe.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-job.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">PROGRAMAÇÃO</div>
+
+    <h2>Lógica de Programação em Mainframe</h2>
+
+    <p>
+        Conceitos essenciais para quem está
+        iniciando na programação.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-logica-de-programacao-em.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">MAINFRAME</div>
+
+    <h2>O que é Mainframe</h2>
+
+    <p>
+        História, conceitos e importância
+        dos grandes computadores corporativos.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-mainframe.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">DESENVOLVIMENTO</div>
+
+    <h2>O que é Paradigma de Programação</h2>
+
+    <p>
+        Conheça os diferentes estilos
+        utilizados no desenvolvimento de software.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-paradigma-de-programacao.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">PDS</div>
+
+    <h2>O que é PDS e PDSE</h2>
+
+    <p>
+        Entenda as bibliotecas utilizadas
+        para armazenar membros e fontes.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-pds-e-pdse.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">PROC</div>
+
+    <h2>O que é PROC no JCL</h2>
+
+    <p>
+        Aprenda como reutilizar etapas
+        através de procedimentos catalogados.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-proc-no-jcl.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">SPOOL</div>
+
+    <h2>O que é Spool</h2>
+
+    <p>
+        Conheça o mecanismo responsável
+        pelo armazenamento temporário de jobs.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-spool.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">3270</div>
+
+    <h2>O que é Terminal 3270</h2>
+
+    <p>
+        Descubra o terminal clássico que
+        marcou gerações de profissionais.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-terminal-3270.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">TSO</div>
+
+    <h2>O que é TSO</h2>
+
+    <p>
+        Introdução ao Time Sharing Option,
+        porta de entrada para o z/OS.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-tso.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">DUMP</div>
+
+    <h2>O que é um Dump em Mainframe</h2>
+
+    <p>
+        Aprenda como os dumps auxiliam
+        no diagnóstico e análise de problemas.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-um-dump-em-mainframe.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">EMULADOR</div>
+
+    <h2>O que é um Emulador Mainframe</h2>
+
+    <p>
+        Conheça as soluções que simulam
+        ambientes Mainframe em PCs.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-um-emulador-mainframe.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">z/OS</div>
+
+    <h2>O que é z/OS</h2>
+
+    <p>
+        Visão geral do principal sistema
+        operacional da plataforma IBM Z.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-zos.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">JCL</div>
+
+    <h2>Filas, Classes e MSGLEVEL</h2>
+
+    <p>
+        Entenda parâmetros essenciais
+        para execução e controle de jobs.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/o-que-sao-filas-classes-e-msglevel-no.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">DATASET</div>
+
+    <h2>Tipos e Formatos de Dataset</h2>
+
+    <p>
+        Explore os diferentes formatos
+        e organizações de datasets no z/OS.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2007/01/tipos-de-dataset-e-formatos-de-dataset.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+<div class="artigo-card">
+
+    <div class="badge">ANIME</div>
+
+    <h2>Yankii: Os Delinquentes de Coração Nobre</h2>
+
+    <p>
+        Uma viagem pelo universo dos yankiis,
+        personagens marcantes da cultura japonesa.
+    </p>
+
+    <a href="https://eljefemidnightlunch.blogspot.com/2024/11/yankii-os-delinquentes-de-coracao-nobre.html"
+       target="_blank">
+
+        Ler Artigo →
+
+    </a>
+
+</div>
+
+    </div>
+
+</section>
+
+<footer>
+
+<p>
+© 2026 Bellacosa Mainframe - Preservando o Conhecimento da Stack Mainframe
+</p>
+
+</footer>
+
+<script>
+
+/* Contador Local */
+
+let visitas = localStorage.getItem("bellacosa_visitas");
+
+if(!visitas){
+visitas = 1;
+}else{
+visitas = parseInt(visitas) + 1;
+}
+
+localStorage.setItem("bellacosa_visitas", visitas);
+
+document.getElementById("contador").innerText = visitas;
+
+/* Animação Scroll */
+
+const elementos = document.querySelectorAll('.fade');
+
+const observer = new IntersectionObserver(entries=>{
+entries.forEach(entry=>{
+if(entry.isIntersecting){
+entry.target.classList.add('show');
+}
+});
+});
+
+elementos.forEach(el=>observer.observe(el));
+
+</script>
+
+<br><br><br><br>
+
+<script>
+
+const trailerTexts = [
+
+"COBOL",
+"CICS",
+"DB2",
+"JCL",
+"RACF",
+"TSO/ISPF",
+"z/OS",
+"IBM Z",
+"OPEN SOURCE",
+"BELLACOSA MAINFRAME"
+
+];
+
+let index = 0;
+
+const glow = document.querySelector('.glow');
+
+setInterval(()=>{
+
+    glow.style.opacity=0;
+
+    setTimeout(()=>{
+
+        glow.innerText =
+        "☕💣 " + trailerTexts[index];
+
+        glow.style.opacity=1;
+
+        index++;
+
+        if(index>=trailerTexts.length)
+            index=0;
+
+    },500);
+
+},2500);
+
+</script>
+
+<script>
+
+const trailerTexts = [
+
+"COBOL",
+"CICS",
+"DB2",
+"JCL",
+"RACF",
+"TSO/ISPF",
+"z/OS",
+"IBM Z",
+"OPEN SOURCE",
+"BELLACOSA MAINFRAME"
+
+];
+
+let index = 0;
+
+const glow = document.querySelector('.glow');
+
+setInterval(()=>{
+
+    glow.style.opacity=0;
+
+    setTimeout(()=>{
+
+        glow.innerText =
+        "☕💣 " + trailerTexts[index];
+
+        glow.style.opacity=1;
+
+        index++;
+
+        if(index>=trailerTexts.length)
+            index=0;
+
+    },500);
+
+},2500);
+
+</script>
+
+
+
+<script>
+
+const cards =
+document.querySelectorAll('.artigo-card');
+
+document.getElementById('totalArtigos')
+.innerText = cards.length;
+
+document
+.getElementById('pesquisa')
+.addEventListener('keyup',function(){
+
+    const texto =
+    this.value.toLowerCase();
+
+    cards.forEach(card=>{
+
+        if(card.innerText
+           .toLowerCase()
+           .includes(texto)){
+
+            card.style.display='block';
+
+        }else{
+
+            card.style.display='none';
+
+        }
+
+    });
+
+});
+
+</script>
+
+<section id="trailer">
+
+    <div class="glow">
+        ☕💣 BELLACOSA MAINFRAME
+    </div>
+
+    <p class="trailer-text">
+        Preservando o conhecimento da Stack Mainframe para as próximas gerações.
+    </p>
+
+</section>
+
+
+<script>
+
+/* ==================================================
+   BELLACOSA MAINFRAME - SCRIPT ÚNICO
+   ================================================== */
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    /* ==========================================
+       CONTADOR DE VISITAS
+       ========================================== */
+
+    let visitas = localStorage.getItem("bellacosa_visitas");
+
+    visitas = visitas ? parseInt(visitas) + 1 : 1;
+
+    localStorage.setItem(
+        "bellacosa_visitas",
+        visitas
+    );
+
+    const contador =
+    document.getElementById("contador");
+
+    if(contador){
+
+        contador.innerText = visitas;
+
+    }
+
+    /* ==========================================
+       ANIMAÇÃO FADE
+       ========================================== */
+
+    const elementos =
+    document.querySelectorAll(".fade");
+
+    if(elementos.length){
+
+        const observer =
+        new IntersectionObserver(entries => {
+
+            entries.forEach(entry => {
+
+                if(entry.isIntersecting){
+
+                    entry.target.classList.add("show");
+
+                }
+
+            });
+
+        });
+
+        elementos.forEach(el =>
+            observer.observe(el)
+        );
+
+    }
+
+    /* ==========================================
+       CONTADOR E PESQUISA DE ARTIGOS
+       ========================================== */
+
+    const cards =
+    document.querySelectorAll(".artigo-card");
+
+    const totalArtigos =
+    document.getElementById("totalArtigos");
+
+    if(totalArtigos){
+
+        totalArtigos.innerText =
+        cards.length;
+
+    }
+
+    const pesquisa =
+    document.getElementById("pesquisa");
+
+    if(pesquisa){
+
+        pesquisa.addEventListener(
+        "keyup",
+
+        function(){
+
+            const texto =
+            this.value.toLowerCase();
+
+            cards.forEach(card => {
+
+                const mostrar =
+                card.innerText
+                .toLowerCase()
+                .includes(texto);
+
+                card.style.display =
+                mostrar ? "block" : "none";
+
+            });
+
+        });
+
+    }
+
+    /* ==========================================
+       TRAILER ROTATIVO
+       ========================================== */
+
+    const glow =
+    document.querySelector(".glow");
+
+    if(glow){
+
+        const trailerTexts = [
+
+            "COBOL",
+            "CICS",
+            "DB2",
+            "JCL",
+            "RACF",
+            "JES2",
+            "TSO",
+            "ISPF",
+            "z/OS",
+            "IBM Z",
+            "OPEN SOURCE",
+            "BELLACOSA MAINFRAME"
+
+        ];
+
+        let indice = 0;
+
+        setInterval(() => {
+
+            glow.style.opacity = 0;
+
+            setTimeout(() => {
+
+                glow.innerHTML =
+                "☕💣 " +
+                trailerTexts[indice];
+
+                glow.style.opacity = 1;
+
+                indice++;
+
+                if(
+                   indice >=
+                   trailerTexts.length
+                ){
+
+                    indice = 0;
+
+                }
+
+            },500);
+
+        },2500);
+
+    }
+
+    /* ==========================================
+       DASHBOARD GITHUB
+       ========================================== */
+
+    async function carregarGithub(){
+
+        const alvo =
+        document.getElementById(
+        "github-card"
+        );
+
+        if(!alvo) return;
+
+        try{
+
+            const usuario =
+            "VagnerBellacosa";
+
+            const perfil =
+            await fetch(
+            `https://api.github.com/users/${usuario}`
+            );
+
+            const dados =
+            await perfil.json();
+
+            const repos =
+            await fetch(
+            `https://api.github.com/users/${usuario}/repos?sort=updated&per_page=6`
+            );
+
+            const listaRepos =
+            await repos.json();
+
+            let html = `
+
+            <div class="github-card">
+
+                <div class="profile">
+
+                    <img
+                    src="${dados.avatar_url}"
+                    alt="${dados.login}">
+
+                    <div class="profile-info">
+
+                        <h2>
+                        ${dados.name || usuario}
+                        </h2>
+
+                        <p>
+                        ${dados.bio || ""}
+                        </p>
+
+                        <p>
+                        📍 ${dados.location || "Brasil"}
+                        </p>
+
+                        <a
+                        class="visit-btn"
+                        href="${dados.html_url}"
+                        target="_blank">
+
+                        🚀 Visitar GitHub
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="stats">
+
+                    <div class="stat">
+
+                        <div class="stat-number">
+                        ${dados.public_repos}
+                        </div>
+
+                        Repositórios
+
+                    </div>
+
+                    <div class="stat">
+
+                        <div class="stat-number">
+                        ${dados.followers}
+                        </div>
+
+                        Seguidores
+
+                    </div>
+
+                    <div class="stat">
+
+                        <div class="stat-number">
+                        ${dados.following}
+                        </div>
+
+                        Seguindo
+
+                    </div>
+
+                </div>
+
+                <div class="repo-list">
+
+                    <h3>
+                    Últimos Projetos
+                    </h3>
+
+            `;
+
+            listaRepos.forEach(repo => {
+
+                html += `
+
+                <div class="repo">
+
+                    <a
+                    href="${repo.html_url}"
+                    target="_blank">
+
+                    ${repo.name}
+
+                    </a>
+
+                    <p>
+                    ${repo.description || ""}
+                    </p>
+
+                    <small>
+
+                    ⭐ ${repo.stargazers_count}
+                    |
+                    🍴 ${repo.forks_count}
+
+                    </small>
+
+                </div>
+
+                `;
+
+            });
+
+            html += `
+                </div>
+            </div>
+            `;
+
+            alvo.innerHTML = html;
+
+        }
+        catch(error){
+
+            console.error(error);
+
+            alvo.innerHTML = `
+
+            <div class="github-card">
+
+                <h2>
+                GitHub indisponível
+                </h2>
+
+                <p>
+
+                Não foi possível carregar
+                os dados do GitHub.
+
+                </p>
+
+                <a
+                href="https://github.com/VagnerBellacosa"
+                target="_blank"
+                class="visit-btn">
+
+                Abrir GitHub
+
+                </a>
+
+            </div>
+
+            `;
+
+        }
+
+    }
+
+    carregarGithub();
+
+});
+
+</script>
+
+<section id="trailer">
+
+    <div class="glow">
+        ☕💣 BELLACOSA MAINFRAME
+    </div>
+
+    <p class="trailer-text">
+        Preservando o conhecimento da Stack Mainframe para as próximas gerações.
+    </p>
+
+</section>
+
+
+<section id="preview-library">
+
+    <h2>☕💣 Biblioteca Bellacosa Mainframe</h2>
+
+    <div id="preview-grid" class="preview-grid"></div>
+
+</section>
+
+
+<script>
+
+const artigos = [
+
+["50 Comandos TSO Explicados",
+"https://eljefemidnightlunch.blogspot.com/2007/01/50-comandos-tso-explicados-para.html"],
+
+["ABEND Explicado para Iniciantes",
+"https://eljefemidnightlunch.blogspot.com/2007/01/abend-explicado-para-iniciantes.html"],
+
+["A Origem das Mensagens HASP",
+"https://eljefemidnightlunch.blogspot.com/2007/01/a-origem-das-mensagens-hasp-no-mainframe.html"],
+
+["Como Funciona um Datacenter Mainframe",
+"https://eljefemidnightlunch.blogspot.com/2007/01/como-funciona-um-datacenter-mainframe.html"],
+
+["Como Funciona um Job Batch",
+"https://eljefemidnightlunch.blogspot.com/2007/01/como-funciona-um-job-batch-no-mainframe.html"],
+
+["Como Interpretar SYSOUT",
+"https://eljefemidnightlunch.blogspot.com/2007/01/como-interpretar-sysout-num-job-e-quais.html"],
+
+["Como Navegar no ISPF",
+"https://eljefemidnightlunch.blogspot.com/2007/01/como-navegar-no-ispf.html"],
+
+["Como Submeter Jobs no z/OS",
+"https://eljefemidnightlunch.blogspot.com/2007/01/como-submeter-jobs-no-mainframe-zos.html"],
+
+["Introdução ao JCL",
+"https://eljefemidnightlunch.blogspot.com/2007/01/introducao-ao-jcl.html"],
+
+["Introdução ao SDSF",
+"https://eljefemidnightlunch.blogspot.com/2007/01/introducao-ao-sdsf.html"],
+
+["Acima da Linha e Acima da Barra",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-acima-da-linha-acima-da-barra-e.html"],
+
+["Blockagem em Dataset QSAM",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-blockagem-em-dataset-qsam.html"],
+
+["O que é DASD",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-dasd.html"],
+
+["O que é Dataset",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-dataset.html"],
+
+["O que é ISPF",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-ispf.html"],
+
+["O que é JES2",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-jes2.html"],
+
+["O que é Job",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-job.html"],
+
+["Lógica de Programação",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-logica-de-programacao-em.html"],
+
+["O que é Mainframe",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-mainframe.html"],
+
+["Paradigma de Programação",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-paradigma-de-programacao.html"],
+
+["O que é PDS e PDSE",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-pds-e-pdse.html"],
+
+["O que é PROC no JCL",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-proc-no-jcl.html"],
+
+["O que é Spool",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-spool.html"],
+
+["O que é Terminal 3270",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-terminal-3270.html"],
+
+["O que é TSO",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-tso.html"],
+
+["O que é um Dump",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-um-dump-em-mainframe.html"],
+
+["O que é um Emulador Mainframe",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-um-emulador-mainframe.html"],
+
+["O que é z/OS",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-e-zos.html"],
+
+["Filas, Classes e MSGLEVEL",
+"https://eljefemidnightlunch.blogspot.com/2007/01/o-que-sao-filas-classes-e-msglevel-no.html"],
+
+["Tipos de Dataset e Formatos",
+"https://eljefemidnightlunch.blogspot.com/2007/01/tipos-de-dataset-e-formatos-de-dataset.html"],
+
+["Yankii - Os Delinquentes de Coração Nobre",
+"https://eljefemidnightlunch.blogspot.com/2024/11/yankii-os-delinquentes-de-coracao-nobre.html"]
+
+];
+
+const grid =
+document.getElementById("preview-grid");
+
+artigos.forEach(artigo=>{
+
+    grid.innerHTML += `
+
+    <div class="preview-item">
+
+        <h3>${artigo[0]}</h3>
+
+        <iframe
+            src="${artigo[1]}"
+            loading="lazy">
+        </iframe>
+
+    </div>
+
+    `;
+
+});
+
+</script>
+
+
+</body>
+</html>
